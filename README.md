@@ -1,2 +1,8 @@
 # pk_bot
-aSelenium bot can buy product by automatically  this bot is able to add order to system. it compares customer's order list and products of website.Adds to the system after pairing is done. The list of product shown on the website varies according to the order text.Every different order text creates a different placement on wepsite. This bot finds the column of the most matched product and adds it .
+This bot was designed for a company that sells shoes. It adds the desired product to the panel by making comparisons on the company's website according to the incoming customer data. It also holds the customer's address and the cost of the order.
+
+Used selenium to navigate company website
+
+Person who wants to enter the order in the system can activate it by sending a message to telegram bot.
+
+Finally django is used for bridge between database and code
