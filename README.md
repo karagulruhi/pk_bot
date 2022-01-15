@@ -1,0 +1,2 @@
+# pk_bot
+aSelenium bot can buy product by automatically  this bot is able to add order to system. it compares customer's order list and products of website.Adds to the system after pairing is done. The list of product shown on the website varies according to the order text.Every different order text creates a different placement on wepsite. This bot finds the column of the most matched product and adds it .
