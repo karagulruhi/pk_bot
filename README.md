@@ -1,5 +1,5 @@
 # pk_bot
-This bot was designed for a company that sells shoes. It adds the desired product to the panel by making comparisons on the company's website according to the incoming customer data. It also holds the customer's address and the cost of the order.
+This bot was designed for a company that sells shoes. It add desired product to the panel by making comparisons on the company's website according to the incoming customer data. It also holds the customer's address and the cost of the order.
 
 Used selenium to navigate company website
 
