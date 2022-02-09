@@ -3,6 +3,6 @@ This bot was designed for a company that sells shoes. It add desired product to 
 
 Used selenium to navigate company website
 
-Person who wants to enter the order in the system can activate it by sending a message to telegram bot.
+who wants to enter the order in the system can activate it by sending a message to telegram bot.
 
 Finally django is used for bridge between database and code
